@@ -53,7 +53,7 @@
   },
   "dependencies": {
     "lodash": "3.x",
-    "riveter": "git://github.com/ifandelse/riveter.git#0cffebb92117c88543cb4359fb9fd69c2d65dd22"
+    "riveter": "ifandelse/riveter#0cffebb92117c88543cb4359fb9fd69c2d65dd22"
   },
   "devDependencies": {
     "bower": "^1.4.1",
